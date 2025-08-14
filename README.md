@@ -31,9 +31,9 @@ Al hacer clic en una tarjeta, se abre una página propia para ese Pokémon, most
 ---
 
 ## 🚀 Tecnologías utilizadas
-- **React** (Vite o Create React App)
+- **React** (Vite)
 - **JavaScript (ES6)**
-- **CSS / Bootstrap** (o la librería de estilos que uses)
+- **CSS / Tailwind** 
 - **React Router** (para la navegación entre páginas)
 - **PokeAPI** ([https://pokeapi.co/](https://pokeapi.co/))
 
