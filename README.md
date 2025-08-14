@@ -1,12 +1,69 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# ⚡ Proyecto Pokémon - PokeAPI + React
 
-Currently, two official plugins are available:
+Este proyecto es una aplicación web que **consume la PokeAPI** para mostrar información de Pokémon.  
+Muestra **50 Pokémon** en forma de tarjetas (cards), cada una con sus estadísticas principales.  
+Al hacer clic en una tarjeta, se abre una página propia para ese Pokémon, mostrando sus **stats de forma más detallada** y con **diseño personalizado según su tipo**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📦 Características principales
+- **Listado de 50 Pokémon** obtenidos desde la PokeAPI.
+- **Cards interactivas** con:
+  - Imagen del Pokémon.
+  - Nombre.
+  - Stats principales (ataque, defensa, velocidad, etc.).
+- **Página individual para cada Pokémon**:
+  - Muestra estadísticas completas.
+  - Estilo dinámico según el tipo del Pokémon (fondo, colores, decoración).
+- **Diseño responsivo** para dispositivos móviles y escritorio.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🖼 Vista previa
+*(Agrega capturas de pantalla del listado y de la página individual de un Pokémon.)*
+
+---
+
+## 🚀 Tecnologías utilizadas
+- **React** (Vite o Create React App)
+- **JavaScript (ES6)**
+- **CSS / Bootstrap** (o la librería de estilos que uses)
+- **React Router** (para la navegación entre páginas)
+- **PokeAPI** ([https://pokeapi.co/](https://pokeapi.co/))
+
+---
+
+## 🛠 Cómo ejecutar el proyecto
+
+1. **Clonar el repositorio**
+   ```bash
+   git clone https://github.com/usuario/proyecto-pokemon.git
+2. Entrar en la carpeta
+
+3. cd proyecto-pokemon
+4. Instalar dependencias: NPM INSTALL
+5. Iniciar el servidor de desarrollo: NPM RUN DEV
+Abrir en el navegador
+
+
+http://localhost:5173
+
+🎯 Objetivo del proyecto
+--
+Practicar el consumo de APIs REST en React.
+
+Manejar rutas dinámicas con React Router.
+
+Implementar estilos dinámicos basados en datos de la API.
+
+Crear una experiencia visual atractiva y adaptada al contenido.
+
+📌 Créditos
+--
+API utilizada: PokeAPI
+
+Imágenes y datos: PokeAPI
+
+
