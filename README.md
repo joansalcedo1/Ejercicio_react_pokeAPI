@@ -22,7 +22,10 @@ Al hacer clic en una tarjeta, se abre una página propia para ese Pokémon, most
 ---
 
 ## 🖼 Vista previa
-*(Agrega capturas de pantalla del listado y de la página individual de un Pokémon.)*
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e46f5dbe-4c2f-40f2-a880-84732b9326a9" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/16985559-200b-4250-8471-96b577c81e4e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cbc35349-dc4a-4019-aea0-1bddde8401d6" />
+
 
 ---
 
