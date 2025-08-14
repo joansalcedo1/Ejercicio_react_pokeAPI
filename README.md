@@ -22,9 +22,10 @@ Al hacer clic en una tarjeta, se abre una página propia para ese Pokémon, most
 ---
 
 ## 🖼 Vista previa
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e46f5dbe-4c2f-40f2-a880-84732b9326a9" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/16985559-200b-4250-8471-96b577c81e4e" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cbc35349-dc4a-4019-aea0-1bddde8401d6" />
+<img width="1920" height="918" alt="image" src="https://github.com/user-attachments/assets/c77e02ea-3c3f-4488-b897-84498d1101de" />
+<img width="1905" height="921" alt="image" src="https://github.com/user-attachments/assets/61d02be6-94bd-4fe9-80ec-79164618cfe3" />
+<img width="1920" height="999" alt="image" src="https://github.com/user-attachments/assets/5f9bbc9b-21fe-43bf-a457-430aa28db28e" />
+
 
 
 ---
