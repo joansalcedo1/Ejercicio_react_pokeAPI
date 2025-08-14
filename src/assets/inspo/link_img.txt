@@ -1,0 +1,3 @@
+inspo pokemon_page: 
+- https://img.freepik.com/vector-gratis/diseno-tarjeta-visita-degradado_1369-6.jpg?semt=ais_hybrid&w=740
+- https://articles-img.sftcdn.net/t_article_cover_xl/auto-mapping-folder/sites/2/2024/12/pokemon_tcg_softonic.jpg
